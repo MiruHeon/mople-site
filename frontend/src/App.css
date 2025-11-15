@@ -1,0 +1,19 @@
+body{
+  background-color: #141414;
+}
+
+
+.box1{
+  background-color: #202020;
+  margin-top: -20px;
+}
+
+button{
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  margin-left: 10px;
+}
